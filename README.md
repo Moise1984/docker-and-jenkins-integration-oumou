@@ -1,3 +1,13 @@
 # docker-and-jenkins-integration-oumou
+...
 This is an automated workflow for creating docker images and pushing them to DockerHub. 
-starting the same project
+start the same project in 2026
+...
+
+# new commit
+
+...
+commit title
+
+Our commit description with the pogress steps of the project
+...
