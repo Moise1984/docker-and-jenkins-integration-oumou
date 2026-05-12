@@ -1,24 +1,24 @@
 # docker-and-jenkins-integration-oumou
-...
+'''
 This is an automated workflow for creating docker images and pushing them to DockerHub.
 
 start the same project in 2026
-...
+'''
 
 # new commit
 
-...
+'''
 commit title
 
 Our commit description with the pogress steps of the project
-...
+'''
 
 # New branch creation
 
-...bash
+'''bash
 
 git checkout -b Branch_Name
-...
+'''
 
 To follow best practices, we are going to integrate the concept of code review.
 For that, we will create a branch, make the modifications, push them to the remote repository, and then create a Pull Request to allow the code review process.
