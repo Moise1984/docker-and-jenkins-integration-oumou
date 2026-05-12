@@ -17,3 +17,6 @@ Our commit description with the pogress steps of the project
 ...bash
 git checkout -b Branch_Name
 ...
+
+To follow best practices, we are going to integrate the concept of code review.
+For that, we will create a branch, make the modifications, push them to the remote repository, and then create a Pull Request to allow the code review process.
