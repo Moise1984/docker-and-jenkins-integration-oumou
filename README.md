@@ -11,3 +11,9 @@ commit title
 
 Our commit description with the pogress steps of the project
 ...
+
+# New branch creation
+
+...bash
+git checkout -b Branch_Name
+...
