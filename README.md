@@ -9,7 +9,7 @@ start the same project in 2026
 # new commit
 
 ```
-commit title
+A commit title
 
 Our commit description outlining the different stages of the project.
 ```
